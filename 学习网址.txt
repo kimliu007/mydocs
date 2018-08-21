@@ -1,0 +1,81 @@
+传智公开课--- Python系列：
+http://yun.itheima.com/open/c-7/p/1.html
+
+中谷Python视频
+http://www.icoolxue.com/album/show/113
+
+
+appCan官方教学视频（开发向导专题）
+http://edu.appcan.cn/thematic_pages.html
+
+AppCan初级教程之【手把手教你做APP--仿美团】
+http://class.qq.com/class/17508.html
+
+AppCan初探
+https://v.youku.com/v_show/id_XNDMxNjg5MDE2.html?tpa=dW5pb25faWQ9MTAyMjEzXzEwMDAwMl8wMV8wMQ
+
+Maven学习：
+http://www.yiibai.com/maven/
+
+EJB学习：
+http://study.163.com/course/courseMain.htm?courseId=1040001
+
+J2EE 高级框架实战教学视频教程：
+http://class.qq.com/class/15077.html
+
+
+《孙鑫J2EE视频教程 1G》：
+http://www.verycd.com/topics/168851/
+
+EJB的简介，可以快速让你明白EJB是干嘛用的。
+http://pan.baidu.com/s/1hqnOplq 密码：kl0m
+
+
+Eclipse + Scala开发环境搭建：
+http://blog.csdn.net/yuanguangyu1221/article/details/50889522
+http://blog.csdn.net/hwssg/article/details/37758435
+
+devExpress文档
+https://documentation.devexpress.com/#WindowsForms/CustomDocument2947
+
+Python - 面向 C# 开发者的 SciPy 编程简介
+https://msdn.microsoft.com/magazine/mt683799
+
+Python3教程（廖雪峰官方网站）
+http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+
+C#与Matlab混合编程
+http://www.cnblogs.com/liuxiaowei0543/p/3682377.html
+
+MATLAB绘制云图、等值线图
+http://jingyan.todgo.com/shuma/4099681oku.html
+
+scilab官网文档
+https://www.scilab.org/resources/documentation
+
+C#调用R 编制股票分析软件
+http://f.dataguru.cn/thread-229918-1-1.html
+
+C#调用R
+https://www.codeproject.com/Articles/25819/The-R-Statistical-Language-and-C-NET-Foundations
+
+单点登陆
+http://www.cnblogs.com/jirigala/p/3263865.html
+
+新型并联机构实时控制动力学建模及全局快速终端滑模控制研究
+
+
+
+
+
+工作量计算软件验收备忘录：
+二次分配  ==> 多人上课及授课质量计算M2
+   奖惩系数（修改为质量系数）、院系分配工作量  可以修改
+添加 教师名、教师工号、实验室名称、教师工作量、实验室辅助工作量
+
+服务器IP：
+密码：
+
+
+
+
